@@ -1,0 +1,8 @@
+1. import package random
+2. import package random and name it as rnd
+3. import function random from the package random
+4. import function random from the package random and name it as rnd
+5. import function random from the package numpy
+6. import package numpy
+7. import function Z from the subpackage Y of the package X and name it as T
+8. import function NCBIWWW from the subpackage Blast of the package Bio

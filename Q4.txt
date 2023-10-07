@@ -1,0 +1,7 @@
+1. It is syntax error, we need to add ":" after the condition statement of the for loop to make the correction.
+
+2. This is exception, we can only use try-except to solve the problem. We should put try before our code, and except ValueError after the code. Otherwise the code would not proceed if we enter "Stop", since stop cannot be converted into integer.
+
+3. Logic error and syntax.
+in "for i in range(0,len(data)+1):", delete the +1
+for the if condition, "&&" is not available in python, so replace it with "and". Besides, it should be "data[i] <= 8" to include 8 itself.
